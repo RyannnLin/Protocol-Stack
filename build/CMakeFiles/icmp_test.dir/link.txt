@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\icmp_test.dir/objects.a
+D:\CodeBlocks\MinGW\bin\ar.exe qc CMakeFiles\icmp_test.dir/objects.a @CMakeFiles\icmp_test.dir\objects1.rsp
+D:\CodeBlocks\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\icmp_test.dir/objects.a -Wl,--no-whole-archive -o icmp_test.exe -Wl,--out-implib,libicmp_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\icmp_test.dir\linkLibs.rsp

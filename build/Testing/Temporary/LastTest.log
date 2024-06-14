@@ -1,0 +1,22 @@
+Start testing: Jun 07 12:53 ÖÐ¹ú±ê×¼Ê±¼ä
+----------------------------------------------------------
+5/6 Testing: ip_frag_test
+5/6 Test: ip_frag_test
+Command: "E:/college/code/C/CNLab/net-lab/build/ip_frag_test.exe" "E:/college/code/C/CNLab/net-lab/testing/data/ip_frag_test"
+Directory: E:/college/code/C/CNLab/net-lab/build
+"ip_frag_test" start time: Jun 07 12:53 ÖÐ¹ú±ê×¼Ê±¼ä
+Output:
+----------------------------------------------------------
+[0;34mFeeding input.
+[0;34mComparing logs.
+[1;32mLog file check passed
+[0m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"ip_frag_test" end time: Jun 07 12:53 ÖÐ¹ú±ê×¼Ê±¼ä
+"ip_frag_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 07 12:53 ÖÐ¹ú±ê×¼Ê±¼ä

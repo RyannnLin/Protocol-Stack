@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\arp_test.dir/objects.a
+D:\CodeBlocks\MinGW\bin\ar.exe qc CMakeFiles\arp_test.dir/objects.a @CMakeFiles\arp_test.dir\objects1.rsp
+D:\CodeBlocks\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\arp_test.dir/objects.a -Wl,--no-whole-archive -o arp_test.exe -Wl,--out-implib,libarp_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arp_test.dir\linkLibs.rsp
